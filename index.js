@@ -1,1 +1,1 @@
-console.log("hello world!");
+console.log("hello Artemenko Anton! slivzerin krutie");
