@@ -1,1 +1,1 @@
-console.log("hello world!");
+console.log("Ерофеев Александр. слиВзерин top!!!");
